@@ -60,4 +60,10 @@ To run the application:
 
 `node .`  
 
+### Stuff used to make this:  
+
+ * [periodictable](http://www.webservicex.net/periodictable.asmx): Periodic Table public webservice 1
+ * [globalweather](http://www.webservicex.com/globalweather.asmx): Global Weather public webservice 2 
+ * [loopback.io](https://loopback.io/) Node.js API Framework
+
 ..(d[-_-]b)..
