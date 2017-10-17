@@ -1,0 +1,24 @@
+{
+  "name": "GetWeather",
+  "base": "Model",
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
+  "forceId": "false",
+  "excludeBaseProperties": [
+    "id"
+  ],
+  "properties": {
+    "CityName": {
+      "type": "string"
+    },
+    "CountryName": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
