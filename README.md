@@ -1,5 +1,9 @@
 # Conectando SOAP WebServices utilizando Loopback
 
+### Pre Requisites
+
+`npm install -g loopback-cli`  
+
 ### Create a LoopBack application
 
 The first step is to create a new LoopBack application. For example:
