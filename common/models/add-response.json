@@ -1,18 +1,19 @@
 {
-  "name": "soap_GlobalWeatherSoap",
+  "name": "AddResponse",
   "base": "Model",
   "idInjection": false,
   "options": {
     "validateUpsert": true
   },
-  "http": {
-    "path": "GlobalWeatherSoap"
-  },
   "forceId": "false",
   "excludeBaseProperties": [
     "id"
   ],
-  "properties": {},
+  "properties": {
+    "AddResult": {
+      "type": "number"
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],

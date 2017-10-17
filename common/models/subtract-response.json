@@ -1,5 +1,5 @@
 {
-  "name": "GetCitiesByCountry",
+  "name": "SubtractResponse",
   "base": "Model",
   "idInjection": false,
   "options": {
@@ -10,8 +10,8 @@
     "id"
   ],
   "properties": {
-    "CountryName": {
-      "type": "string"
+    "SubtractResult": {
+      "type": "number"
     }
   },
   "validations": [],

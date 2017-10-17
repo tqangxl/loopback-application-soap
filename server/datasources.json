@@ -1,8 +1,8 @@
 {
-  "GlobalWeatherSoap": {
-    "url": "http://www.webservicex.com/globalweather.asmx",
-    "name": "GlobalWeatherSoap",
-    "wsdl": "http://www.webservicex.com/globalweather.asmx?WSDL",
+  "calculatorSoap": {
+    "url": "http://www.dneonline.com/calculator.asmx?wsdl",
+    "name": "calculatorSoap",
+    "wsdl": "http://www.dneonline.com/calculator.asmx?wsdl",
     "remotingEnabled": true,
     "connector": "soap"
   }

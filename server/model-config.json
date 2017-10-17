@@ -13,23 +13,39 @@
       "./mixins"
     ]
   },
-  "soap_GlobalWeatherSoap": {
+  "soap_CalculatorSoap": {
     "dataSource": null,
     "public": true
   },
-  "GetWeather": {
+  "Add": {
     "dataSource": null,
     "public": true
   },
-  "GetWeatherResponse": {
+  "AddResponse": {
     "dataSource": null,
     "public": true
   },
-  "GetCitiesByCountry": {
+  "Subtract": {
     "dataSource": null,
     "public": true
   },
-  "GetCitiesByCountryResponse": {
+  "SubtractResponse": {
+    "dataSource": null,
+    "public": true
+  },
+  "Multiply": {
+    "dataSource": null,
+    "public": true
+  },
+  "MultiplyResponse": {
+    "dataSource": null,
+    "public": true
+  },
+  "Divide": {
+    "dataSource": null,
+    "public": true
+  },
+  "DivideResponse": {
     "dataSource": null,
     "public": true
   }

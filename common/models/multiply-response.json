@@ -1,5 +1,5 @@
 {
-  "name": "GetWeather",
+  "name": "MultiplyResponse",
   "base": "Model",
   "idInjection": false,
   "options": {
@@ -10,11 +10,8 @@
     "id"
   ],
   "properties": {
-    "CityName": {
-      "type": "string"
-    },
-    "CountryName": {
-      "type": "string"
+    "MultiplyResult": {
+      "type": "number"
     }
   },
   "validations": [],

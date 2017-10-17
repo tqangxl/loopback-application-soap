@@ -1,19 +1,18 @@
 {
-  "name": "GetWeatherResponse",
+  "name": "soap_CalculatorSoap",
   "base": "Model",
   "idInjection": false,
   "options": {
     "validateUpsert": true
   },
+  "http": {
+    "path": "CalculatorSoap"
+  },
   "forceId": "false",
   "excludeBaseProperties": [
     "id"
   ],
-  "properties": {
-    "GetWeatherResult": {
-      "type": "string"
-    }
-  },
+  "properties": {},
   "validations": [],
   "relations": {},
   "acls": [],

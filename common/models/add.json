@@ -1,5 +1,5 @@
 {
-  "name": "GetCitiesByCountryResponse",
+  "name": "Add",
   "base": "Model",
   "idInjection": false,
   "options": {
@@ -10,8 +10,11 @@
     "id"
   ],
   "properties": {
-    "GetCitiesByCountryResult": {
-      "type": "string"
+    "intA": {
+      "type": "number"
+    },
+    "intB": {
+      "type": "number"
     }
   },
   "validations": [],
